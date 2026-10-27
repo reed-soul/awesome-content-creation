@@ -320,6 +320,7 @@ Selling digital products is one of the most scalable revenue streams for creator
 
 ### YouTube Growth
 - [Ali Abdaal's YouTube Course](https://www.youtube.com/@aliabdaal) — Productivity and YouTube growth strategies.
+- [Creator / 小白油管起步](https://creator.taoliapp.com/) — Free Chinese-language YouTube starter knowledge base: setup, policy boundaries, and monetization paths.
 - [Think Media](https://www.youtube.com/@ThinkMedia) — YouTube gear reviews and growth tips.
 - [vidIQ](https://www.youtube.com/@vidIQ) — YouTube strategy and algorithm insights.
 - [Channel Makers](https://www.youtube.com/@ChannelMakers) — Data-driven YouTube growth advice.
